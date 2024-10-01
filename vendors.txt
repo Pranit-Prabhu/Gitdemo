@@ -1,1 +1,2 @@
-John | Bangalore | 25
+John	| Bangalore	| 25
+Jane	| Chennai 	| 30
